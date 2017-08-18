@@ -57,7 +57,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 ### Developer Tools
 
-- [ConEmu](http://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows
+- [ConEmu](http://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows                        
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://conemu.github.io/en/Source.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://conemu.github.io/donate.html)
 - [Git](https://git-scm.com/) - free and open source distributed version control system   
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://git-scm.com/community) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://git-scm.com/sfc)
