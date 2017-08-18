@@ -33,7 +33,6 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Audio Players
 
 - [Clementine](https://www.clementine-player.org/) - modern music player and library organizer
-
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.clementine-player.org/participate)
 - [MPD](https://www.musicpd.org/) - free and open music player server
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.musicpd.org/help/)
