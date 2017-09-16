@@ -46,7 +46,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Pidgin](https://pidgin.im/) - a universal instant messaging (IM) program                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://developer.pidgin.im/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://imfreedom.org/donate.php)
-- [HexChat](https://hexchat.github.io/) - IRC client based on XChat
+- [HexChat](https://hexchat.github.io/) - IRC client based on XChat                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/hexchat=-) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://hexchat.github.io/)
 - [Rocket.Chat](https://rocket.chat/) - the ultimate webchat platform                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate)
