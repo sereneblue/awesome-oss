@@ -1,5 +1,5 @@
 # awesome-oss
-
+z
 A list of open source projects with links to contribute or donate.
 
 This list is a work in progress. I'm sure I'm missing many great projects. Feel free to send a pull request (just make sure it has a contribution/donation/both link)!
@@ -117,7 +117,8 @@ editing of user keystrokes
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://my.fsf.org/donate)
 - [GNOME Foundation](https://www.gnome.org/foundation/) - non-profit organization that coordinates the efforts in the GNOME project                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
-- [Internet Archive](https://archive.org) -                    
+- [Internet Archive](https://archive.org) - non-profit digital library offering free universal access to books, movies & music, as well as 306 billion archived web 
+pages                                        
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://archive.org/donate/)
 - [KDE e.V.](https://ev.kde.org/) - non-profit organization that represents the KDE community in the legal and financial entities                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.kde.org/community/donations/index.php#money)
@@ -209,7 +210,7 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.remmina.org/wp/contributing-to-remmina/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.remmina.org/wp/donations/)
 - [Syncthing](https://syncthing.net/) - peer-to-peer file synchronization                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/syncthing/syncthing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://syncthing.net/)
-- [Tribler](https://www.tribler.org/) - Privacy enhanced BitTorrent client with P2P content discovery
+- [Tribler](https://www.tribler.org/) - Privacy enhanced BitTorrent client with P2P content discovery                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://tribler.readthedocs.io/en/devel/contributing.html)
 - [Wireshark](https://www.wireshark.org/) - packet analyzer                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireshark.org/develop.html)
