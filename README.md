@@ -66,6 +66,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 ### Developer Tools
 
+- [Ansible](https://www.ansible.com/) - radically simple IT automation platform                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
 - [ConEmu](https://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://conemu.github.io/en/Source.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://conemu.github.io/donate.html)
 - [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/contribute.wiki) - simple, high-reliability, distributed software configuration management system                    
@@ -74,6 +76,9 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://git-scm.com/community) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://git-scm.com/sfc)
 - [GitLab](https://gitlab.com) - web-based Git repository manager with wiki and issue tracking features                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/gitlabhq/gitlabhq) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://about.gitlab.com/about/)
+- [Mosh](https://mosh.org/) - remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line 
+editing of user keystrokes                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mosh.org/#faq)
 - [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - free and open-source terminal emulator                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chiark.greenend.org.uk/~sgtatham/putty/feedback.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.chiark.greenend.org.uk/%7Esgtatham/putty/faq.html)
 - [Rancher](https://rancher.com/) - a complete container management platform                    
@@ -89,6 +94,10 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mail-in-a-box/mailinabox)
 - [Mailu](https://mailu.io/) - simple yet full-featured mail server as a set of Docker images                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Mailu/Mailu)
+- [Mutt](http://www.mutt.org/) - text-based mail client for Unix operating systems                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://dev.mutt.org/trac/)
+- [NeoMutt](https://www.neomutt.org/) - command line mail reader                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.neomutt.org/contrib.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.neomutt.org/)
 
 ### Foundations
 
@@ -200,6 +209,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.remmina.org/wp/contributing-to-remmina/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.remmina.org/wp/donations/)
 - [Syncthing](https://syncthing.net/) - peer-to-peer file synchronization                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/syncthing/syncthing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://syncthing.net/)
+- [Tribler](https://www.tribler.org/) - Privacy enhanced BitTorrent client with P2P content discovery
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://tribler.readthedocs.io/en/devel/contributing.html)
 - [Wireshark](https://www.wireshark.org/) - packet analyzer                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireshark.org/develop.html)
 
@@ -242,6 +253,9 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/eldy/awstats) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.awstats.org/)
+- [FreedomBox](https://freedomboxfoundation.org/) - a community project to develop, design and promote personal servers running free software for distributed social 
+networking, email and audio/video communications                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://freedomboxfoundation.org/pitchin/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freedomboxfoundation.org/donate/)
 - [GnuPG](https://gnupg.org/) - encrypt and sign data and communication                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://gnupg.org/documentation/bts.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://gnupg.org/donate/index.html)
 - [Huginn](https://github.com/huginn/huginn) - a system for building agents that perform automated tasks for you online                    
@@ -250,6 +264,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wikimediafoundation.org/wiki/Ways_to_Give)
 - [OpenSSL](https://www.openssl.org/) - project that provides a robust, commercial-grade, and full-featured toolkit for TLS & SSL                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssl.org/community/)
+- [OpenStreetMap](https://www.openstreetmap.org) - collaborative project to create a free editable map of the world                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openstreetmap.org/help) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.osmfoundation.org/wiki/Main_Page)
 - [Radicale](http://radicale.org/) - CalDAV and CardDAV Server                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://radicale.org/contribute/)
 - [Stockfish Chess](https://stockfishchess.org/) - UCI chess engine                    
@@ -316,6 +332,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.palemoon.org/donations.shtml#Donating_services) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.palemoon.org/donations.shtml)
 - [QupZilla](https://qupzilla.com/) - a lightweight multiplatform web browser written in Qt Framework and using its web rendering engine QtWebEngine                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://qupzilla.com/contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://qupzilla.com/contribute)
+- [qutebrowser](https://qutebrowser.org/) - a keyboard-focused browser with a minimal GUI                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://qutebrowser.org/CONTRIBUTING.html)
 - [SeaMonkey](https://www.seamonkey-project.org/) - Internet suite                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.seamonkey-project.org/community) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.seamonkey-project.org/donate/)
 - [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - a version of Mozilla Firefox that has been modified by the Tor Project for enhanced security and privacy                    
