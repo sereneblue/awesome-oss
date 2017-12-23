@@ -10,7 +10,6 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Audio Editors](#audio-editors)
 - [Audio Players](#audio-players)
-- [Chat](#chat)
 - [Documents](#documents)
 - [Developer Tools](#dev-tools)
 - [Email](#email)
@@ -22,6 +21,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [OS/Distributions](#os-distributions)
 - [Other](#other)
 - [Password Managers](#passwordmanagers)
+- [Social](#social)
 - [Text Editors](#text-editors)
 - [Video Software](#video-software)
 - [Web Browsers](#web-browsers)
@@ -42,17 +42,6 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Rhythmbox](https://projects-old.gnome.org/rhythmbox/) - integrated music management application                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/rhythmbox) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
 
-### Chat
-
-- [Pidgin](https://pidgin.im/) - a universal instant messaging (IM) program                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://developer.pidgin.im/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://imfreedom.org/donate.php)
-- [HexChat](https://hexchat.github.io/) - IRC client based on XChat                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/hexchat=-) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://hexchat.github.io/)
-- [Rocket.Chat](https://rocket.chat/) - the ultimate webchat platform                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate)
-- [WeeChat](https://weechat.org/) - fast, light and extensible chat client                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://weechat.org/dev/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://weechat.org/about/donate/)
-
 ### Documents
 
 - [Etherpad](http://etherpad.org/) - web-based collaborative real-time editor                    
@@ -70,7 +59,9 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
 - [ConEmu](https://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://conemu.github.io/en/Source.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://conemu.github.io/donate.html)
-- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/contribute.wiki) - simple, high-reliability, distributed software configuration management system                    
+- [Flutter](https://flutter.io/) - mobile app SDK to help developers and designers build modern mobile apps for iOS and Android                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md)
+- [Fossil](https://www.fossil-scm.org/) - simple, high-reliability, distributed software configuration management system                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.fossil-scm.org/index.html/doc/trunk/www/contribute.wiki)
 - [Git](https://git-scm.com/) - distributed version control system                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://git-scm.com/community) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://git-scm.com/sfc)
@@ -192,6 +183,8 @@ pages
 
 - [Apache](https://httpd.apache.org/) - cross-platform web server software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.apache.org/httpd/Contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.apache.org/foundation/contributing.html)
+- [LEDE Project](https://lede-project.org/) - fork of OpenWRT                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://lede-project.org/wiki/start) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://lede-project.org/playground/donate)
 - [Let's Encrypt](https://letsencrypt.org/) - free, automated, and open Certificate Authority                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://letsencrypt.org/getinvolved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://letsencrypt.org/donate/)
 - [Nextcloud](https://nextcloud.com/) - self-hosted file sync and share and communication app platform                    
@@ -200,6 +193,8 @@ pages
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://nginx.org/en/docs/contributing_changes.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://nginx.org/en/donation.html)
 - [Nmap](https://nmap.org/) - Security Scanner, Port Scanner, & Network Exploration Tool                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/nmap/nmap/blob/master/CONTRIBUTING.md)
+- [OpenNIC](https://www.opennic.org/) - user owned and controlled Network Information Center; alternative DNS network                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.opennic.org/doku.php) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.opennic.org/)
 - [OpenSSH](https://www.openssh.com/) - a suite of security-related network-level utilities based on the Secure Shell protocol                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssh.com/report.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.openbsd.org/donations.html)
 - [OpenWRT](https://www.openwrt.org/) - project for embedded operating system based on Linux, primarily used on embedded devices to route network traffic                    
@@ -208,6 +203,8 @@ pages
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://owncloud.org/contribute/)
 - [Remmina](https://www.remmina.org/) - feature rich Remote Desktop Application                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.remmina.org/wp/contributing-to-remmina/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.remmina.org/wp/donations/)
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/sshuttle/sshuttle)
 - [Syncthing](https://syncthing.net/) - peer-to-peer file synchronization                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/syncthing/syncthing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://syncthing.net/)
 - [Tribler](https://www.tribler.org/) - Privacy enhanced BitTorrent client with P2P content discovery                    
@@ -237,6 +234,8 @@ pages
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://kernelnewbies.org/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.linuxfoundation.org/about/linux-donate)
 - [Linux Mint](https://www.linuxmint.com/) - a community-driven Linux distribution based on Debian and Ubuntu                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.linuxmint.com/getinvolved.php) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.linuxmint.com/donors.php)
+- [NixOS](https://nixos.org/) - Purely Functional Linux Distribution                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://nixos.org/nixos/community.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://nixos.org/nixos/community.html)
 - [OpenBSD](www.openbsd.org) - Unix-like computer operating system descended from Berkeley Software Distribution                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openbsd.org/faq/faq5.html#Diff) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.openbsd.org/donations.html)
 - [openSUSE](https://opensuse.org/) - a Linux-based project and distribution sponsored by SUSE Linux GmbH and other companies                    
@@ -278,12 +277,30 @@ networking, email and audio/video communications
 
 ### Password Managers
 
+- [Bitwarden](https://bitwarden.com/) - password manager                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/bitwarden)
 - [KeePass](http://keepass.info) - password manager                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://sourceforge.net/p/keepass/discussion/329220/thread/2e0a2bdb/#045f) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://keepass.info/donate.html)
 - [KeeWeb](https://keeweb.info/) - cross-platform password manager compatible with KeePass                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/keeweb/keeweb) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/keeweb/keeweb)
 - [Password Safe](https://pwsafe.org/) - password manager                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pwsafe/pwsafe) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://pwsafe.org/)
+
+
+### Social
+
+- [Mastodon](https://joinmastodon.org/) - social network server                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tootsuite/mastodon) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.patreon.com/mastodon)
+- [Matrix](https://matrix.org/) - open network for secure, decentralized communication                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/matrix-org/synapse) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/)
+- [Pidgin](https://pidgin.im/) - a universal instant messaging (IM) program                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://developer.pidgin.im/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://imfreedom.org/donate.php)
+- [HexChat](https://hexchat.github.io/) - IRC client based on XChat                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/hexchat=-) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://hexchat.github.io/)
+- [Rocket.Chat](https://rocket.chat/) - the ultimate webchat platform                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate)
+- [WeeChat](https://weechat.org/) - fast, light and extensible chat client                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://weechat.org/dev/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://weechat.org/about/donate/)
 
 ### Text Editors
 
