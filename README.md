@@ -1,5 +1,4 @@
 # awesome-oss
-z
 A list of open source projects with links to contribute or donate.
 
 This list is a work in progress. I'm sure I'm missing many great projects. Feel free to send a pull request (just make sure it has a contribution/donation/both link)!
@@ -70,6 +69,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Mosh](https://mosh.org/) - remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line 
 editing of user keystrokes                     
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mosh.org/#faq)
+- [Node-RED](https://mosh.org/) - programming tool for wiring together hardware devices, APIs and online services in new and interesting ways                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/node-red/node-red/blob/master/CONTRIBUTING.md)
 - [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - free and open-source terminal emulator                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chiark.greenend.org.uk/~sgtatham/putty/feedback.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.chiark.greenend.org.uk/%7Esgtatham/putty/faq.html)
 - [Rancher](https://rancher.com/) - a complete container management platform                    
@@ -108,11 +109,12 @@ editing of user keystrokes
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://my.fsf.org/donate)
 - [GNOME Foundation](https://www.gnome.org/foundation/) - non-profit organization that coordinates the efforts in the GNOME project                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
-- [Internet Archive](https://archive.org) - non-profit digital library offering free universal access to books, movies & music, as well as 306 billion archived web 
-pages                                        
+- [Internet Archive](https://archive.org) - non-profit digital library offering free universal access to books, movies & music, as well as 306 billion archived web pages                                        
+[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://archive.org/donate/)
+- [JS Foundation](https://js.foundation/) - supports some of the most important projects in the JavaScript ecosystem                                        
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://archive.org/donate/)
 - [KDE e.V.](https://ev.kde.org/) - non-profit organization that represents the KDE community in the legal and financial entities                    
-[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.kde.org/community/donations/index.php#money)
+[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://js.foundation/about/donate)
 - [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) - non-profit organization that exists to support and collectively lead the open source Mozilla project                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://donate.mozilla.org/en-US/)
 - [Open Source Initiative](https://opensource.org/) - non-profit organization dedicated to promoting open-source software                    
