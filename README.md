@@ -185,6 +185,8 @@ editing of user keystrokes
 
 - [Apache](https://httpd.apache.org/) - cross-platform web server software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.apache.org/httpd/Contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.apache.org/foundation/contributing.html)
+- [FreeNAS](https://www.freenas.org/) - Network Attached Storage software                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://doc.freenas.org/10/deaddocs/index.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://doc.freenas.org/10/deaddocs/index.html)
 - [LEDE Project](https://lede-project.org/) - fork of OpenWRT                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://lede-project.org/wiki/start) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://lede-project.org/playground/donate)
 - [Let's Encrypt](https://letsencrypt.org/) - free, automated, and open Certificate Authority                    
@@ -255,8 +257,9 @@ editing of user keystrokes
 
 - [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/eldy/awstats) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.awstats.org/)
-- [FreedomBox](https://freedomboxfoundation.org/) - a community project to develop, design and promote personal servers running free software for distributed social 
-networking, email and audio/video communications                     
+- [Common Voice](https://voice.mozilla.org/data) - open and publicly available dataset of voices                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.mozilla.org/en-US/foundation/)
+- [FreedomBox](https://freedomboxfoundation.org/) - a community project to develop, design and promote personal servers running free software for distributed social networking, email and audio/video communications                     
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://freedomboxfoundation.org/pitchin/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freedomboxfoundation.org/donate/)
 - [GnuPG](https://gnupg.org/) - encrypt and sign data and communication                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://gnupg.org/documentation/bts.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://gnupg.org/donate/index.html)
@@ -301,6 +304,8 @@ networking, email and audio/video communications
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/hexchat=-) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://hexchat.github.io/)
 - [Rocket.Chat](https://rocket.chat/) - the ultimate webchat platform                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate)
+- [Talk](https://coralproject.net/products/talk.html) - alternative to Disqus                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/coralproject/talk)
 - [WeeChat](https://weechat.org/) - fast, light and extensible chat client                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://weechat.org/dev/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://weechat.org/about/donate/)
 
