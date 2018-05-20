@@ -91,7 +91,7 @@ editing of user keystrokes
 - [NeoMutt](https://www.neomutt.org/) - command line mail reader                     
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.neomutt.org/contrib.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.neomutt.org/)
 
-### Foundations
+### Foundations/Organizations
 
 - [Apache Software Foundation](https://www.apache.org) - non-profit corporation to support Apache software project                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.apache.org/foundation/contributing.html)
@@ -133,6 +133,8 @@ editing of user keystrokes
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.rubycentral.org/support)
 - [Software Freedom Conservancy](https://sfconservancy.org/) - not-for-profit charity that helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://sfconservancy.org/donate/)
+- [Tor Project](https://www.torproject.org/) - not-for-profit organization that is responsible for maintaining software for the Tor anonymity network                    
+[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://donate.torproject.org/pdr)
 - [VideoLAN](https://www.videolan.org/videolan/) - non-profit organization that develops and promotes open-source multimedia solutions                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.videolan.org/contribute.html#money)
 - [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home) - a nonprofit charitable organization dedicated to encouraging the growth, development and distribution of free, multilingual, educational content, and to providing the full content of these wiki-based projects to the public free of charge                    
@@ -213,6 +215,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/syncthing/syncthing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://syncthing.net/)
 - [Tribler](https://www.tribler.org/) - Privacy enhanced BitTorrent client with P2P content discovery                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://tribler.readthedocs.io/en/devel/contributing.html)
+- [WireGuard](https://www.wireguard.com/) - fast, modern and secure VPN tunnel                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireguard.com/#contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.wireguard.com/donations/)
 - [Wireshark](https://www.wireshark.org/) - packet analyzer                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireshark.org/develop.html)
 
@@ -267,6 +271,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/huginn/huginn#join-us) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.bountysource.com/teams/huginn/)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - wiki software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wikimediafoundation.org/wiki/Ways_to_Give)
+- [MyCroft](https://mycroft.ai) - Voice Assistant                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mycroft.ai/documentation/contributing/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://mycroft.ai/product/donate-to-open-source/)
 - [OpenSSL](https://www.openssl.org/) - project that provides a robust, commercial-grade, and full-featured toolkit for TLS & SSL                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssl.org/community/)
 - [OpenStreetMap](https://www.openstreetmap.org) - collaborative project to create a free editable map of the world                     
@@ -277,6 +283,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://stockfishchess.org/get-involved/)
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - disk encryption software for Windows, Mac OSX and Linux                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/veracrypt/VeraCrypt) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.veracrypt.fr/en/Donation.html)
+- [Yacy](https://yacy.net/en/index.html) - P2P Search Engine                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://yacy.net/en/Join.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://yacy.net/en/index.html)
 - [ZoneMinder](https://www.zoneminder.com/) - state-of-the-art video surveillance software system                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ZoneMinder/ZoneMinder/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.zoneminder.com/donate/)
 
