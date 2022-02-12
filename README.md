@@ -10,7 +10,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Audio Editors](#audio-editors)
 - [Audio Players](#audio-players)
 - [Documents](#documents)
-- [Developer Tools](#dev-tools)
+- [Developer Tools](#developer-tools)
 - [Email](#email)
 - [Foundations](#foundationsorganizations)
 - [FTP Clients](#ftp-clients)
