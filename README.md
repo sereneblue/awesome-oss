@@ -19,7 +19,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Networking](#networking)
 - [OS/Distributions](#osdistributions)
 - [Other](#other)
-- [Password Managers](#passwordmanagers)
+- [Password Managers](#password-managers)
 - [Social](#social)
 - [Text Editors](#text-editors)
 - [Video Software](#video-software)
