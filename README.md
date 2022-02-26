@@ -258,6 +258,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://xubuntu.org/contribute/development/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://xubuntu.org/donations/)
 - [OPNsense](https://opnsense.org/) - an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform                 
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://opnsense.org/developers-invitation/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://opnsense.org/donate/)
+- [pfSense](https://www.pfsense.org/) - a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pfsense/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.netgate.com/blog/donations)
 
 ### Other
 
