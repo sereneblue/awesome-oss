@@ -256,6 +256,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://community.ubuntu.com/contribute/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.ubuntu.com/download/desktop/contribute)
 - [Xubuntu](https://xubuntu.org/) - an official flavour of the Ubuntu operating system which uses the XFCE desktop environment                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://xubuntu.org/contribute/development/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://xubuntu.org/donations/)
+- [OPNsense](https://opnsense.org/) - an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform                 
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://opnsense.org/developers-invitation/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://opnsense.org/donate/)
 
 ### Other
 
