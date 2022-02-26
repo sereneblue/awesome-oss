@@ -348,6 +348,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/jp9000/obs-studio) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://obsproject.com/donate)
 - [OpenShot Video Editor](https://www.openshot.org/) - a video editor for FreeBSD, Linux, macOS, and Windows                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/OpenShot/openshot-qt) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.openshot.org/donate/)
+- [Shotcut](https://shotcut.org/) - a free, open source, cross-platform video editor               
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mltframework/shotcut) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.paypal.com/donate/?token=Ed8ZDtncrnqa3PwTp8JCXLr3sFMrA8D0EwtBSdNFmfSXdDclHMsGecgqUYekIlNR2-xmzT8oCGgwNNxv)
 - [VirtualDub](http://virtualdub.org/) - free video tool for basic editing and encoding, including batch processing, mainly geared to AVI files                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://virtualdub.org/contact.html)
 
