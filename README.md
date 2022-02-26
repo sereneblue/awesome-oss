@@ -205,8 +205,12 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssh.com/report.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.openbsd.org/donations.html)
 - [OpenWRT](https://www.openwrt.org/) - project for embedded operating system based on Linux, primarily used on embedded devices to route network traffic                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://dev.openwrt.org/wiki/SubmittingPatches) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://dev.openwrt.org/wiki/SupportDonate)
+- [OPNsense](https://opnsense.org/) - an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform                 
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://opnsense.org/developers-invitation/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://opnsense.org/donate/)
 - [ownCloud](https://owncloud.org/) - self-hosted file sync and share app platform                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://owncloud.org/contribute/)
+- [pfSense](https://www.pfsense.org/) - a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface                 
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pfsense/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.netgate.com/blog/donations)
 - [Remmina](https://www.remmina.org/) - feature rich Remote Desktop Application                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.remmina.org/wp/contributing-to-remmina/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.remmina.org/wp/donations/)
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN                    
@@ -256,10 +260,6 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://community.ubuntu.com/contribute/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.ubuntu.com/download/desktop/contribute)
 - [Xubuntu](https://xubuntu.org/) - an official flavour of the Ubuntu operating system which uses the XFCE desktop environment                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://xubuntu.org/contribute/development/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://xubuntu.org/donations/)
-- [OPNsense](https://opnsense.org/) - an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform                 
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://opnsense.org/developers-invitation/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://opnsense.org/donate/)
-- [pfSense](https://www.pfsense.org/) - a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pfsense/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.netgate.com/blog/donations)
 
 ### Other
 
@@ -353,7 +353,7 @@ editing of user keystrokes
 - [OpenShot Video Editor](https://www.openshot.org/) - a video editor for FreeBSD, Linux, macOS, and Windows                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/OpenShot/openshot-qt) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.openshot.org/donate/)
 - [Shotcut](https://shotcut.org/) - a free, open source, cross-platform video editor               
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mltframework/shotcut) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.paypal.com/donate/?token=Ed8ZDtncrnqa3PwTp8JCXLr3sFMrA8D0EwtBSdNFmfSXdDclHMsGecgqUYekIlNR2-xmzT8oCGgwNNxv)
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mltframework/shotcut) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://shotcut.org/download/)
 - [VirtualDub](http://virtualdub.org/) - free video tool for basic editing and encoding, including batch processing, mainly geared to AVI files                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://virtualdub.org/contact.html)
 
