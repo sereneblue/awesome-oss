@@ -127,6 +127,8 @@ editing of user keystrokes
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.osmfoundation.org/wiki/Donate)
 - [Perl Foundation](http://www.perlfoundation.org/) - non-profit organization dedicated to the advancement of Perl through discussion, collaboration, design, and code                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://donate.perlfoundation.org/)
+- [Privacy Guides](https://www.privacyguides.org/) - non-profit, socially motivated website that provides information for protecting your data security and privacy.
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/privacyguides/privacyguides.org) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.privacyguides.org/about/donate/)
 - [Python Software Foundation](https://www.python.org/psf/) - non-profit organization devoted to the Python programming language                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.python.org/psf/membership)
 - [Ruby Central](http://www.rubycentral.org/) - non-profit organization dedicated to support and advocacy for the Ruby programming language                    
