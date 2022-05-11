@@ -189,6 +189,8 @@ editing of user keystrokes
 
 - [Apache](https://httpd.apache.org/) - cross-platform web server software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.apache.org/httpd/Contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.apache.org/foundation/contributing.html)
+- [Firezone](https://github.com/firezone/firezone) - self-hosted WireGuard® based VPN Server & Firewall                    
+- [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/firezone/firezone/blob/master/CONTRIBUTING.md)
 - [FreeNAS](https://www.freenas.org/) - Network Attached Storage software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://doc.freenas.org/10/deaddocs/index.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://doc.freenas.org/10/deaddocs/index.html)
 - [LEDE Project](https://lede-project.org/) - fork of OpenWRT                    
