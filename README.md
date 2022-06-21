@@ -159,6 +159,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.blender.org/get-involved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.blender.org/foundation/donation-payment/)
 - [Caesium Image Compressor](https://saerasoft.com/caesium/) - advanced compression tool for photos and images (JPG, PNG, GIF)                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Lymphatus/caesium-image-compressor) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://saerasoft.com/caesium/)
+- [FreeCAD](https://www.freecadweb.org/) -  general purpose parametric 3D CAD modeler                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.freecad.org/Help_FreeCAD) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.freecad.org/Donate)
 - [GIMP](https://www.gimp.org/) - raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.gimp.org/develop/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gimp.org/donating/)
 - [ImageMagick](https://imagemagick.org/) - software suite for displaying, converting, and editing raster image and vector image files                    
