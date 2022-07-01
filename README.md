@@ -343,6 +343,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://limetext.org/contribute/)
 - [Nano](https://www.nano-editor.org/) - a text editor for Unix-like computing systems or operating environments using a command line interface                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.nano-editor.org/dist/v2.2/faq.html#1.2) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.fsf.org/about/ways-to-donate/)
+- [Notepad++](http://www.notepad-plus-plus.org/) - a notepad replacement that supports several languages                   
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.notepad-plus-plus.org/donate/)
 - [Vim](http://www.vim.org/sponsor/index.php) - a greatly improved version of the good old UNIX editor Vi                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/vim/vim/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.vim.org/sponsor/index.php)
 - [Visual Studio Code](https://code.visualstudio.com/) - a code editor redefined and optimized for building and debugging modern web and cloud applications                    
