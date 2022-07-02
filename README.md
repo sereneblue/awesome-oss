@@ -27,6 +27,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 ### Audio Editors
 
+- [Ardour](https://ardour.org/) - a strong alternativ to commercial solutions in audio editing with a ton of features                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://ardour.org/development) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://community.ardour.org/community)
 - [Audacity](https://www.audacityteam.org/) - cross-platform audio software for multi-track recording and editing                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.audacityteam.org/community/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.audacityteam.org/)
 
