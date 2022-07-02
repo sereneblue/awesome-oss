@@ -29,6 +29,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Audacity](https://www.audacityteam.org/) - cross-platform audio software for multi-track recording and editing                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.audacityteam.org/community/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.audacityteam.org/)
+- [WaveShop](http://waveshop.sourceforge.net/index.html) - multi-tab audio editor with a wide range of effects/functions and several supported file formats                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://waveshop.sourceforge.net/development.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://sourceforge.net/p/waveshop/donate)
 
 ### Audio Players
 
