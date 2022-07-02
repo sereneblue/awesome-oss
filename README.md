@@ -8,8 +8,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 ## 🧾 Contents 🧾
 
 
-<a name="🎛️ Audio Editors 🎛️">
-   🎛️ Audio Editors 🎛️
+<a name=":control_knobs: Audio Editors :control_knobs:">
+   :control_knobs: Audio Editors :control_knobs:
 </a>
 
 - [Audio Editors](#🎛️-Audio-Editors-🎛️)
