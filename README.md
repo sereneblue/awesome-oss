@@ -7,7 +7,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 ## 🧾 Contents 🧾
 
-- [Audio Editors](#🎛️-Audio-Editors-🎛️)
+- [Audio Editors](#:control_knobs:-Audio-Editors-:control_knobs:)
 - [Audio Players](#audio-players)
 - [Documents](#documents)
 - [Developer Tools](#developer-tools)
@@ -25,7 +25,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Video Software](#video-software)
 - [Web Browsers](#web-browsers)
 
-### 🎛️ Audio Editors 🎛️
+### :control_knobs: Audio Editors :control_knobs:
 
 - [Audacity](https://www.audacityteam.org/) - cross-platform audio software for multi-track recording and editing                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.audacityteam.org/community/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.audacityteam.org/)
