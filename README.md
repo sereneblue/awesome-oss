@@ -7,7 +7,12 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 ## 🧾 Contents 🧾
 
-- [Audio Editors](#:control_knobs:-Audio-Editors-:control_knobs:)
+
+<a name="🎛️ Audio Editors 🎛️">
+   🎛️ Audio Editors 🎛️
+</a>
+
+- [Audio Editors](#🎛️-Audio-Editors-🎛️)
 - [Audio Players](#audio-players)
 - [Documents](#documents)
 - [Developer Tools](#developer-tools)
