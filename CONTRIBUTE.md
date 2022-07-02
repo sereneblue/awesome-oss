@@ -12,7 +12,3 @@ If you are still not sure you can check the definition for open source by the [O
 
 - [NAME OSS](https://www.indexPageOfOss) - short description of OSS                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.ContributePageLinkOfOss.com) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.DonationORSupportPageLinkOfOss.com)
-- [NAME OSS](https://www.indexPageOfOss) - short description of OSS                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.ContributePageLinkOfOss.com) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.DonationORSupportPageLinkOfOss.com)
-- [NAME OSS](https://www.indexPageOfOss) - short description of OSS                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.ContributePageLinkOfOss.com) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.DonationORSupportPageLinkOfOss.com)
