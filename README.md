@@ -5,9 +5,9 @@ This list is a work in progress. I'm sure I'm missing many great projects. Feel 
 
 You don't have to be a developer to contribute to your favorite open source projects. Check out [this](https://opensource.guide/how-to-contribute/) great guide to learn more about other ways you can contribute.
 
-## :receipt: Contents :receipt:
+## 🧾 Contents 🧾
 
-- [Audio Editors](# :receipt: Audio Editors :receipt:)
+- [Audio Editors](#🎛️-Audio-Editors-🎛️)
 - [Audio Players](#audio-players)
 - [Documents](#documents)
 - [Developer Tools](#developer-tools)
