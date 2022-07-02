@@ -5,7 +5,7 @@ This list is a work in progress. I'm sure I'm missing many great projects. Feel 
 
 You don't have to be a developer to contribute to your favorite open source projects. Check out [this](https://opensource.guide/how-to-contribute/) great guide to learn more about other ways you can contribute.
 
-## Contents
+## 🧾 Contents 🧾
 
 - [Audio Editors](#audio-editors)
 - [Audio Players](#audio-players)
@@ -25,12 +25,12 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Video Software](#video-software)
 - [Web Browsers](#web-browsers)
 
-### Audio Editors
+### 🎛️ Audio Editors 🎛️
 
 - [Audacity](https://www.audacityteam.org/) - cross-platform audio software for multi-track recording and editing                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.audacityteam.org/community/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.audacityteam.org/)
 
-### Audio Players
+### 🎧 Audio Players 🎧
 
 - [Clementine](https://www.clementine-player.org/) - modern music player and library organizer                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.clementine-player.org/participate)
@@ -41,7 +41,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Rhythmbox](https://projects-old.gnome.org/rhythmbox/) - integrated music management application                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/rhythmbox) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
 
-### Documents
+### 📄 Documents 📄
 
 - [Etherpad](http://etherpad.org/) - web-based collaborative real-time editor                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://etherpad.org/#contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://etherpad.org/#contribute)
@@ -54,7 +54,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - free and open-source document viewer                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
-### Developer Tools
+### 👨🏼‍💻 Developer Tools 👩🏼‍💻
 
 - [Ansible](https://www.ansible.com/) - radically simple IT automation platform                     
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
@@ -80,7 +80,7 @@ editing of user keystrokes
 - [VirtualBox](https://www.virtualbox.org/) - free and open-source hypervisor                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.virtualbox.org/wiki/Contributor_information)
 
-### Email
+### 📧 Email 📧
 
 - [Dovecot](https://dovecot.org/) - IMAP and POP3 email server for Linux/UNIX-like systems                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://dovecot.org/support.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://dovecot.org/support.html)
@@ -93,7 +93,7 @@ editing of user keystrokes
 - [NeoMutt](https://www.neomutt.org/) - command line mail reader                     
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.neomutt.org/contrib.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.neomutt.org/)
 
-### Foundations/Organizations
+### 🏢 Foundations/Organizations 🏢
 
 - [Apache Software Foundation](https://www.apache.org) - non-profit corporation to support Apache software project                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.apache.org/foundation/contributing.html)
@@ -146,7 +146,7 @@ editing of user keystrokes
 - [X.Org Foundation](https://www.x.org/wiki/) - non-profit corporation chartered to research, develop, support, organize, administrate, standardize, promote, and defend a free and open accelerated graphics stack                    
 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.x.org/wiki/SponsorshipPage/)
 
-### FTP Clients
+### 📁 FTP Clients 📁
 
 - [Cyberduck](https://cyberduck.io) - client for FTP and SFTP, WebDAV, and cloud storage                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://trac.cyberduck.io/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://cyberduck.io/donate/)
@@ -155,7 +155,7 @@ editing of user keystrokes
 - [WinSCP](https://winscp.net/eng/index.php) - SFTP, FTP, WebDAV and SCP client for Microsoft Windows                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://winscp.net/eng/docs/reporting) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://winscp.net/eng/donate.php)
 
-### Graphics
+### 🖼️ Graphics 🖼️
 
 - [Blender](https://blender.org/) - 3D Creation Software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.blender.org/get-involved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.blender.org/foundation/donation-payment/)
@@ -176,7 +176,7 @@ editing of user keystrokes
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - program for drawing and image editing                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://pinta-project.com/pintaproject/pinta/contribute)
 
-### Multimedia
+### 📺 Multimedia 📺
 
 - [Kodi](https://kodi.tv) - media player software application                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://kodi.tv/get-involved) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://kodi.tv/contribute/donate)
@@ -189,7 +189,7 @@ editing of user keystrokes
 - [VLC](https://www.videolan.org/) - cross-platform multimedia player and framework                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.videolan.org/contribute.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.videolan.org/contribute.html)
 
-### Networking
+### 🖧 Networking 🖧
 
 - [Apache](https://httpd.apache.org/) - cross-platform web server software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.apache.org/httpd/Contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.apache.org/foundation/contributing.html)
@@ -232,7 +232,7 @@ editing of user keystrokes
 - [Wireshark](https://www.wireshark.org/) - packet analyzer                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireshark.org/develop.html)
 
-### OS/Distributions
+### 💾 OS/Distributions 💾
 
 - [Android-X86](http://www.android-x86.org/) - an unofficial initiative to port Google's Android mobile operating system to run on devices powered by AMD and Intel x86 processors                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://www.android-x86.org/donate) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.android-x86.org/donate)
@@ -269,7 +269,7 @@ editing of user keystrokes
 - [Xubuntu](https://xubuntu.org/) - an official flavour of the Ubuntu operating system which uses the XFCE desktop environment                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://xubuntu.org/contribute/development/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://xubuntu.org/donations/)
 
-### Other
+### 📚 Other 📚
 
 - [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/eldy/awstats) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.awstats.org/)
@@ -300,7 +300,7 @@ editing of user keystrokes
 - [ZoneMinder](https://www.zoneminder.com/) - state-of-the-art video surveillance software system                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ZoneMinder/ZoneMinder/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.zoneminder.com/donate/)
 
-### Password Managers
+### 🔐 Password Managers 🔐
 
 - [Bitwarden](https://bitwarden.com/) - password manager                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/bitwarden)
@@ -312,7 +312,7 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pwsafe/pwsafe) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://pwsafe.org/)
 
 
-### Social
+### 🧑 Social 🧑
 
 - [Mastodon](https://joinmastodon.org/) - social network server                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tootsuite/mastodon) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.patreon.com/mastodon)
@@ -329,7 +329,7 @@ editing of user keystrokes
 - [WeeChat](https://weechat.org/) - fast, light and extensible chat client                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://weechat.org/dev/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://weechat.org/about/donate/)
 
-### Text Editors
+### 📝 Text Editors 📝
 
 - [Atom](https://atom.io/) - a hackable text editor for the 21st century, built on Electron,                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://atom.io/faq)
@@ -350,7 +350,7 @@ editing of user keystrokes
 - [Visual Studio Code](https://code.visualstudio.com/) - a code editor redefined and optimized for building and debugging modern web and cloud applications                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Microsoft/vscode/wiki/How-to-Contribute)
 
-### Video Software
+### 📽️ Video Software 📽️
 
 - [Avidemux](http://fixounet.free.fr/avidemux/) - video editing program designed for video editing and video processing                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mean00/avidemux2)
@@ -367,7 +367,7 @@ editing of user keystrokes
 - [VirtualDub](http://virtualdub.org/) - free video tool for basic editing and encoding, including batch processing, mainly geared to AVI files                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://virtualdub.org/contact.html)
 
-### Web Browsers
+### 🌐 Web Browsers 🌐
 
 - [Brave](https://brave.com/) - an open source browser project with priority on speed and privacy based on Chromium                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md)                     
