@@ -369,6 +369,8 @@ editing of user keystrokes
 
 ### Web Browsers
 
+- [Brave](https://brave.com/) - an open source browser project with priority on speed and privacy based on Chromium                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md)                     
 - [Chromium](https://www.chromium.org/) - an open-source web browser project started by Google                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chromium.org/developers/contributing-code)
 - [Midori](http://www.midori-browser.org/) - A lightweight browser using the WebKit rendering engine                    
