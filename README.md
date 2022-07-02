@@ -83,9 +83,11 @@ editing of user keystrokes
 ### Email
 
 - [Dovecot](https://dovecot.org/) - IMAP and POP3 email server for Linux/UNIX-like systems                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://dovecot.org/support.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://dovecot.org/support.html)
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.dovecot.org/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://dovecot.org/support.html)
 - [Mail-in-a-box](https://mailinabox.email/) - one-click, easy-to-deploy SMTP+everything else server                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mail-in-a-box/mailinabox)
+- [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mailcow/mailcow-dockerized/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.servercow.de/mailcow?lang=en)
 - [Mailu](https://mailu.io/) - simple yet full-featured mail server as a set of Docker images                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Mailu/Mailu)
 - [Mutt](http://www.mutt.org/) - text-based mail client for Unix operating systems                     
