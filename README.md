@@ -1,4 +1,4 @@
-# awesome-oss
+# awesome-oss [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A list of open source projects with links to contribute or donate.
 
 This list is a work in progress. I'm sure I'm missing many great projects. Feel free to send a pull request (just make sure it has a contribution/donation/both link)!
