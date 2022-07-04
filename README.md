@@ -1,4 +1,4 @@
-# awesome-oss
+# awesome-oss [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A list of open source projects with links to contribute or donate.
 
 This list is a work in progress. I'm sure I'm missing many great projects. Feel free to send a pull request (just make sure it has a contribution/donation/both link)!
@@ -88,6 +88,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/rancher/rancher)
 - [VirtualBox](https://www.virtualbox.org/) - free and open-source hypervisor                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.virtualbox.org/wiki/Contributor_information)
+- [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=DE) - tabstyle windows command line/shell tool. Works with Subsystem/WSL and more. Custom look through integrated .json file                   
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/microsoft/terminal/blob/main/CONTRIBUTING.md)
 
 ### 📧 Email 📧
 
