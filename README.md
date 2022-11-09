@@ -351,8 +351,6 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.gnu.org/software/emacs/manual/html_node/emacs/Contributing.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.fsf.org/about/ways-to-donate/)
 - [Kate Editor](https://kate-editor.org/) - a text editor developed by the KDE free software community                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://kate-editor.org/join-us/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.kde.org/community/donations/index.php#money)
-- [Lime Text](http://limetext.org/) - API-compatible alternative to the text editor Sublime Text                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://limetext.org/contribute/)
 - [Nano](https://www.nano-editor.org/) - a text editor for Unix-like computing systems or operating environments using a command line interface                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.nano-editor.org/dist/v2.2/faq.html#1.2) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.fsf.org/about/ways-to-donate/)
 - [Notepad++](http://www.notepad-plus-plus.org/) - a notepad replacement that supports several languages                   
