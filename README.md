@@ -336,8 +336,6 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/hexchat=-) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://hexchat.github.io/)
 - [Rocket.Chat](https://rocket.chat/) - the ultimate webchat platform                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate)
-- [Talk](https://coralproject.net/products/talk.html) - alternative to Disqus                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/coralproject/talk)
 - [WeeChat](https://weechat.org/) - fast, light and extensible chat client                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://weechat.org/dev/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://weechat.org/about/donate/)
 
