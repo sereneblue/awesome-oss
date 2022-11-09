@@ -185,7 +185,7 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://krita.org/en/get-involved/overview/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://krita.org/en/support-us/donations/)
 - [LibreCAD](http://librecad.org/) - Computer-aided design application for 2D design                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://librecad.org/cms/home/get-involved.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://librecad.org/cms/donate.html)
-- [Pinta](https://pinta-project.com/pintaproject/pinta/) - program for drawing and image editing                    
+- [Pinta](https://pinta-project.com/) - program for drawing and image editing                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://pinta-project.com/pintaproject/pinta/contribute)
 
 ### Multimedia
