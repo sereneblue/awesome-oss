@@ -389,8 +389,6 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://www.netsurf-browser.org/developers/contribute.html)
 - [PaleMoon](https://www.palemoon.org/) - web browser with an emphasis on customizability                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.palemoon.org/donations.shtml#Donating_services) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.palemoon.org/donations.shtml)
-- [QupZilla](https://qupzilla.com/) - a lightweight multiplatform web browser written in Qt Framework and using its web rendering engine QtWebEngine                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://qupzilla.com/contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://qupzilla.com/contribute)
 - [qutebrowser](https://qutebrowser.org/) - a keyboard-focused browser with a minimal GUI                     
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://qutebrowser.org/CONTRIBUTING.html)
 - [SeaMonkey](https://www.seamonkey-project.org/) - Internet suite                    
