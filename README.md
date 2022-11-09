@@ -320,6 +320,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/keeweb/keeweb) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/keeweb/keeweb)
 - [Password Safe](https://pwsafe.org/) - password manager                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pwsafe/pwsafe) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://pwsafe.org/)
+- [Pass](https://www.passwordstore.org/) - Standard Unix Password Manager
+[![Contribute](https://lists.zx2c4.com/mailman/listinfo/password-store)
 
 
 ### Social
