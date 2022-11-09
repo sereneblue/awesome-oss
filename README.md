@@ -209,8 +209,6 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/firezone/firezone/blob/master/CONTRIBUTING.md)
 - [FreeNAS](https://www.freenas.org/) - Network Attached Storage software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://doc.freenas.org/10/deaddocs/index.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://doc.freenas.org/10/deaddocs/index.html)
-- [LEDE Project](https://lede-project.org/) - fork of OpenWRT                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://lede-project.org/wiki/start) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://lede-project.org/playground/donate)
 - [Let's Encrypt](https://letsencrypt.org/) - free, automated, and open Certificate Authority                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://letsencrypt.org/getinvolved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://letsencrypt.org/donate/)
 - [Nextcloud](https://nextcloud.com/) - self-hosted file sync and share and communication app platform                    
