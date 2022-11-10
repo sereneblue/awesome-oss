@@ -40,7 +40,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.clementine-player.org/participate)
 - [MPD](https://www.musicpd.org/) - free and open music player server                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.musicpd.org/help/)
-- [OooPlayer](https://www.ozok26.com/categories/5/oooplayer) - Lightweight music player for Windows                    
+- [OooPlayer](https://github.com/ozok/OooPlayer) - Lightweight music player for Windows                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ozok/OooPlayer) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.ozok26.com/categories/5/oooplayer)
 - [Rhythmbox](https://projects-old.gnome.org/rhythmbox/) - integrated music management application                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/rhythmbox) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
@@ -185,7 +185,7 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://krita.org/en/get-involved/overview/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://krita.org/en/support-us/donations/)
 - [LibreCAD](http://librecad.org/) - Computer-aided design application for 2D design                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://librecad.org/cms/home/get-involved.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://librecad.org/cms/donate.html)
-- [Pinta](https://pinta-project.com/pintaproject/pinta/) - program for drawing and image editing                    
+- [Pinta](https://pinta-project.com/) - program for drawing and image editing                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://pinta-project.com/pintaproject/pinta/contribute)
 
 ### Multimedia
@@ -209,8 +209,6 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/firezone/firezone/blob/master/CONTRIBUTING.md)
 - [FreeNAS](https://www.freenas.org/) - Network Attached Storage software                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://doc.freenas.org/10/deaddocs/index.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://doc.freenas.org/10/deaddocs/index.html)
-- [LEDE Project](https://lede-project.org/) - fork of OpenWRT                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://lede-project.org/wiki/start) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://lede-project.org/playground/donate)
 - [Let's Encrypt](https://letsencrypt.org/) - free, automated, and open Certificate Authority                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://letsencrypt.org/getinvolved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://letsencrypt.org/donate/)
 - [Nextcloud](https://nextcloud.com/) - self-hosted file sync and share and communication app platform                    
@@ -322,6 +320,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/keeweb/keeweb) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/keeweb/keeweb)
 - [Password Safe](https://pwsafe.org/) - password manager                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pwsafe/pwsafe) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://pwsafe.org/)
+- [Pass](https://www.passwordstore.org/) - Standard Unix Password Manager
+[![Contribute](https://lists.zx2c4.com/mailman/listinfo/password-store)
 
 
 ### Social
@@ -336,8 +336,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/hexchat=-) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://hexchat.github.io/)
 - [Rocket.Chat](https://rocket.chat/) - the ultimate webchat platform                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate)
-- [Talk](https://coralproject.net/products/talk.html) - alternative to Disqus                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/coralproject/talk)
+- [Talk](https://coralproject.net/) - alternative to Disqus                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://coralproject.net/developers/)
 - [WeeChat](https://weechat.org/) - fast, light and extensible chat client                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://weechat.org/dev/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://weechat.org/about/donate/)
 
@@ -351,8 +351,6 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.gnu.org/software/emacs/manual/html_node/emacs/Contributing.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.fsf.org/about/ways-to-donate/)
 - [Kate Editor](https://kate-editor.org/) - a text editor developed by the KDE free software community                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://kate-editor.org/join-us/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.kde.org/community/donations/index.php#money)
-- [Lime Text](http://limetext.org/) - API-compatible alternative to the text editor Sublime Text                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://limetext.org/contribute/)
 - [Nano](https://www.nano-editor.org/) - a text editor for Unix-like computing systems or operating environments using a command line interface                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.nano-editor.org/dist/v2.2/faq.html#1.2) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.fsf.org/about/ways-to-donate/)
 - [Notepad++](http://www.notepad-plus-plus.org/) - a notepad replacement that supports several languages                   
@@ -385,6 +383,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md)                     
 - [Chromium](https://www.chromium.org/) - an open-source web browser project started by Google                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chromium.org/developers/contributing-code)
+- [Falkon](https://invent.kde.org/network/falkon/) - a lightweight multiplatform web browser written in Qt Framework and using its web rendering engine QtWebEngine                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://invent.kde.org/network/falkon)
 - [Midori](http://www.midori-browser.org/) - A lightweight browser using the WebKit rendering engine                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://midori-browser.org/contribute/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.midori-browser.org/donate/)
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - web browser developed by the Mozilla Foundation                    
@@ -393,8 +393,6 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://www.netsurf-browser.org/developers/contribute.html)
 - [PaleMoon](https://www.palemoon.org/) - web browser with an emphasis on customizability                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.palemoon.org/donations.shtml#Donating_services) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.palemoon.org/donations.shtml)
-- [QupZilla](https://qupzilla.com/) - a lightweight multiplatform web browser written in Qt Framework and using its web rendering engine QtWebEngine                    
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://qupzilla.com/contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://qupzilla.com/contribute)
 - [qutebrowser](https://qutebrowser.org/) - a keyboard-focused browser with a minimal GUI                     
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://qutebrowser.org/CONTRIBUTING.html)
 - [SeaMonkey](https://www.seamonkey-project.org/) - Internet suite                    
