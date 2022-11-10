@@ -336,6 +336,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/hexchat=-) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://hexchat.github.io/)
 - [Rocket.Chat](https://rocket.chat/) - the ultimate webchat platform                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate)
+- [Talk](https://coralproject.net/) - alternative to Disqus                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://coralproject.net/developers/)
 - [WeeChat](https://weechat.org/) - fast, light and extensible chat client                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://weechat.org/dev/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://weechat.org/about/donate/)
 
@@ -381,6 +383,8 @@ editing of user keystrokes
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md)                     
 - [Chromium](https://www.chromium.org/) - an open-source web browser project started by Google                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chromium.org/developers/contributing-code)
+- [Falkon](https://invent.kde.org/network/falkon/) - a lightweight multiplatform web browser written in Qt Framework and using its web rendering engine QtWebEngine                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://invent.kde.org/network/falkon)
 - [Midori](http://www.midori-browser.org/) - A lightweight browser using the WebKit rendering engine                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://midori-browser.org/contribute/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.midori-browser.org/donate/)
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - web browser developed by the Mozilla Foundation                    
