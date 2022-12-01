@@ -83,6 +83,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chiark.greenend.org.uk/~sgtatham/putty/feedback.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.chiark.greenend.org.uk/%7Esgtatham/putty/faq.html)
 - [Rancher](https://rancher.com/) - a complete container management platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/rancher/rancher)
+- [Refine](https://refine.dev) - an open source React-based framework for building CRUD apps<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/refinedev/refine) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/refinedev)
 - [VirtualBox](https://www.virtualbox.org/) - free and open-source hypervisor<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.virtualbox.org/wiki/Contributor_information)
 - [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=DE) - tabstyle windows command line/shell tool. Works with Subsystem/WSL and more. Custom look through integrated .json file<br/>
