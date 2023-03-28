@@ -358,6 +358,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.nano-editor.org/dist/v2.2/faq.html#1.2) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.fsf.org/about/ways-to-donate/)
 - [Notepad++](http://www.notepad-plus-plus.org/) - a notepad replacement that supports several languages<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.notepad-plus-plus.org/donate/)
+- [Treehouse](https://github.com/treehousedev/treehouse) - a lightweight outliner app you can use in the browser or to build your own custom application.<br>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/treehousedev/treehouse)
 - [Vim](http://www.vim.org/sponsor/index.php) - a greatly improved version of the good old UNIX editor Vi<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/vim/vim/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.vim.org/sponsor/index.php)
 - [Visual Studio Code](https://code.visualstudio.com/) - a code editor redefined and optimized for building and debugging modern web and cloud applications<br/>
