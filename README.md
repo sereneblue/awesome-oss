@@ -307,6 +307,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://radicale.org/contribute/)
 - [Stockfish Chess](https://stockfishchess.org/) - UCI chess engine<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://stockfishchess.org/get-involved/)
+- [Tyk](https://tyk.io/) - open source API gateway<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tykTechnologies/tyk)
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - disk encryption software for Windows, Mac OSX and Linux<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/veracrypt/VeraCrypt) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.veracrypt.fr/en/Donation.html)
 - [Yacy](https://yacy.net/en/index.html) - P2P Search Engine<br/>
