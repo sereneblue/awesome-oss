@@ -260,7 +260,7 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/contributing/index.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.freebsdfoundation.org/donate/)
 - [Kubuntu](https://www.kubuntu.org/) - an official flavour of the Ubuntu operating system which uses the KDE Plasma Desktop<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.kubuntu.org/contribute-to-kubuntu/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.kubuntu.org/donate)
-- [LineageOS](https://www.android-x86.org/) - successor to the popular CyanogenMod ROM<br/>
+- [LineageOS](https://www.lineageos.org/) - successor to the popular CyanogenMod ROM<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.lineageos.org/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.lineageos.org/about/)
 - [Linux](https://github.com/torvalds/linux) - an operating system kernel released by Linus Torvalds<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://kernelnewbies.org/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.linuxfoundation.org/about/linux-donate)
