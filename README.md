@@ -20,6 +20,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [OS/Distributions](#osdistributions)
 - [Other](#other)
 - [Password Managers](#password-managers)
+- [Payments](#payments)
 - [Social](#social)
 - [Text Editors](#text-editors)
 - [Video Software](#video-software)
@@ -330,6 +331,11 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pwsafe/pwsafe) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://pwsafe.org/)
 - [Pass](https://www.passwordstore.org/) - Standard Unix Password Manager<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://lists.zx2c4.com/mailman/listinfo/password-store)
+
+### Payments
+
+- [HyperSwitch](https://hyperswitch.io/) - An Open Source Financial Switch to make Payments fast, reliable & affordable.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/juspay/hyperswitch)
 
 ### Social
 
