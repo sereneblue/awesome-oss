@@ -298,6 +298,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.mozilla.org/en-US/foundation/)
 - [Dub](https://dub.sh/) - alternative to Bitly                    
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/steven-tey/dub#contributing)
+- [Documenso](https://www.documenso.com/) - Alternative to DocuSign                    
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/documenso/documenso)
 - [FreedomBox](https://freedomboxfoundation.org/) - a community project to develop, design and promote personal servers running free software for distributed social networking, email and audio/video communications<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://freedomboxfoundation.org/pitchin/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freedomboxfoundation.org/donate/)
 - [GnuPG](https://gnupg.org/) - encrypt and sign data and communication<br/>
