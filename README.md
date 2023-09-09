@@ -100,7 +100,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/microsoft/terminal/blob/main/CONTRIBUTING.md)
 - [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/EsperoTech/yaade)
-
+- [Revert](https://revert.dev/) - An open source unified API to build B2B product integrations<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/revertinc/revert)
 ### Email
 
 - [Dovecot](https://dovecot.org/) - IMAP and POP3 email server for Linux/UNIX-like systems<br/>
