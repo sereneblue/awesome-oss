@@ -223,6 +223,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://doc.freenas.org/10/deaddocs/index.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://doc.freenas.org/10/deaddocs/index.html)
 - [Let's Encrypt](https://letsencrypt.org/) - free, automated, and open Certificate Authority<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://letsencrypt.org/getinvolved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://letsencrypt.org/donate/)
+- [NAPALM](https://napalm.readthedocs.io/en/latest/) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/napalm-automation/napalm)
 - [Nextcloud](https://nextcloud.com/) - self-hosted file sync and share and communication app platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://nextcloud.com/contribute/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.bountysource.com/teams/nextcloud)
 - [Nginx](https://nginx.org/) - HTTP and mail proxy server<br/>
@@ -253,8 +255,6 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireguard.com/#contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.wireguard.com/donations/)
 - [Wireshark](https://www.wireshark.org/) - packet analyzer<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireshark.org/develop.html)
-- [NAPALM](https://napalm.readthedocs.io/en/latest/) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/napalm-automation/napalm)
 
 ### OS/Distributions
 
