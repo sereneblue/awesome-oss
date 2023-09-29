@@ -253,6 +253,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireguard.com/#contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.wireguard.com/donations/)
 - [Wireshark](https://www.wireshark.org/) - packet analyzer<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.wireshark.org/develop.html)
+- [NAPALM](https://napalm.readthedocs.io/en/latest/) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/napalm-automation/napalm)
 
 ### OS/Distributions
 
