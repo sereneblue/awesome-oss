@@ -297,6 +297,8 @@ editing of user keystrokes<br/>
 
 - [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/eldy/awstats) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.awstats.org/)
+- [CASE](https://case.app/) - Open source and frameworkless tool to build amazing CRUD applications in minutes<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/casejs/CASE)
 - [Common Voice](https://voice.mozilla.org/data) - open and publicly available dataset of voices<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.mozilla.org/en-US/foundation/)
 - [Dub](https://dub.sh/) - alternative to Bitly                    
@@ -427,5 +429,3 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.torproject.org/getinvolved/volunteer.html.en) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://donate.torproject.org/)
 - [Uzbl](https://www.uzbl.org/) - a lightweight webkit browser following the UNIX philosophy<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.uzbl.org/contribute.php)
-- [CASE](https://case.app/) - Open source and frameworkless tool to build amazing CRUD applications in minutes<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/casejs/CASE)
