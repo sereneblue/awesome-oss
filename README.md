@@ -428,4 +428,4 @@ editing of user keystrokes<br/>
 - [Uzbl](https://www.uzbl.org/) - a lightweight webkit browser following the UNIX philosophy<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.uzbl.org/contribute.php)
 - [CASE](https://case.app/) - Open source and frameworkless tool to build amazing CRUD applications in minutes<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.uzbl.org/contribute.php)
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/casejs/CASE)
