@@ -199,6 +199,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://librecad.org/cms/home/get-involved.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://librecad.org/cms/donate.html)
 - [Pinta](https://pinta-project.com/) - program for drawing and image editing<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://pinta-project.com/pintaproject/pinta/contribute)
+- [Taipy](https://www.taipy.io) - open-source Python library for building web applications’ GUI and back-end management.                   
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)]([https://www.ContributePageLinkOfOss.com](https://github.com/Avaiga/taipy))
 
 ### Multimedia
 
