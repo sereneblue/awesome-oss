@@ -67,6 +67,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
 - [ConEmu](https://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://conemu.github.io/en/Source.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://conemu.github.io/donate.html)
+- [DEM](https://github.com/axem-solutions/dem) - Containerized Development Environment Manager for Embedded Development <br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/axem-solutions/.github/blob/main/CONTRIBUTING.md)
 - [Ddosify](https://github.com/ddosify/ddosify) - Distributed Performance Testing Platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ddosify/ddosify/blob/master/CONTRIBUTING.md)
 - [Flutter](https://flutter.io/) - mobile app SDK to help developers and designers build modern mobile apps for iOS and Android<br/>
