@@ -14,6 +14,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Email](#email)
 - [Foundations](#foundationsorganizations)
 - [FTP Clients](#ftp-clients)
+- [Games](#games)
 - [Graphics](#graphics)
 - [Multimedia](#multimedia)
 - [Networking](#networking)
@@ -183,6 +184,21 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://filezilla-project.org/support.php) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://filezilla-project.org/donate.php)
 - [WinSCP](https://winscp.net/eng/index.php) - SFTP, FTP, WebDAV and SCP client for Microsoft Windows<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://winscp.net/eng/docs/reporting) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://winscp.net/eng/donate.php)
+
+### Games
+
+- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Cataclysm: DDA is a turn-based survival game set in a post-apocalyptic world. Struggle to survive in a harsh, persistent, procedurally generated world<br />
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://cataclysmdda.org/contributions/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://cataclysmdda.org/donations/)
+- [OpenRA](https://www.openra.net/) - OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command & Conquer, and Dune 2000<br />
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/OpenRA/OpenRA#contribute)
+- [OpenTTD](https://www.openttd.org/) - OpenTTD is an open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features<br />
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openttd.org/development) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.openttd.org/donate)
+- [SuperTuxKart](https://supertuxkart.net/Main_Page) - Karts. Nitro. Action! SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play<br />
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://supertuxkart.net/Community) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://supertuxkart.net/Donate)
+- [Veloren](https://veloren.net/) - Veloren is an action role-playing game set in a voxel fantasy world written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft<br />
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://book.veloren.net/contributors/index.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://opencollective.com/veloren/donate)
+- [Xonotic](https://xonotic.org/) - Xonotic is an addictive arena-style first person shooter with crisp movement and a wide array of weapons. It combines intuitive mechanics with in-your-face action to elevate your heart rate<br />
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://gitlab.com/xonotic/xonotic/blob/master/README.md#contributing)
 
 ### Graphics
 
