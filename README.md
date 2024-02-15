@@ -202,6 +202,8 @@ editing of user keystrokes<br/>
 
 ### Graphics
 
+- [Auto 1111 SDK](https://github.com/saketh12/Auto1111SDK) - SDK for editing and generating images<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/saketh12/Auto1111SDK?tab=readme-ov-file#contributing)
 - [Blender](https://blender.org/) - 3D Creation Software<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.blender.org/get-involved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.blender.org/foundation/donation-payment/)
 - [Caesium Image Compressor](https://saerasoft.com/caesium/) - advanced compression tool for photos and images (JPG, PNG, GIF)<br/>
