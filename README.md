@@ -68,6 +68,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
 - [ConEmu](https://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://conemu.github.io/en/Source.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://conemu.github.io/donate.html)
+- [Daytona](https://www.daytona.io/) - The Open Source Dev Environment Manager<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/daytonaio/daytona)
 - [DEM](https://github.com/axem-solutions/dem) - Containerized Development Environment Manager for Embedded Development <br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/axem-solutions/.github/blob/main/CONTRIBUTING.md)
 - [Ddosify](https://github.com/ddosify/ddosify) - Distributed Performance Testing Platform<br/>
