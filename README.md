@@ -336,6 +336,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://freedomboxfoundation.org/pitchin/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freedomboxfoundation.org/donate/)
 - [GnuPG](https://gnupg.org/) - encrypt and sign data and communication<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://gnupg.org/documentation/bts.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://gnupg.org/donate/index.html)
+- [HortusFox](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system for your local environment<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/danielbrendel/hortusfox-web) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/danielbrendel)
 - [Huginn](https://github.com/huginn/huginn) - a system for building agents that perform automated tasks for you online<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/huginn/huginn#join-us) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.bountysource.com/teams/huginn/)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - wiki software<br/>
