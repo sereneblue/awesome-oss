@@ -313,7 +313,7 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://en.opensuse.org/openSUSE:Documentation_Contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.opensuse.org/)
 - [postmarketOS](https://www.android-x86.org/) - a Linux-Based, LTS OS For Android Phones<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.postmarketos.org/wiki/Main_Page) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ollieparanoid.github.io/page/donate/)
-- [SerenityOS]() - SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core <br/>
+- [SerenityOS](https://serenityos.org/) - SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core <br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md)
 - [Slackware](http://www.slackware.com/) - The oldest maintained Linux distribution geared towards power and stability<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.slackware.com/slackware:community) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://store.slackware.com/cgi-bin/store)
