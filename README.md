@@ -102,6 +102,9 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/EsperoTech/yaade)
 - [Revert](https://revert.dev/) - An open source unified API to build B2B product integrations<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/revertinc/revert)
+- [Manifest](https://manifest.build/) - Open-source Backend-as-a-Service that enables developers to create backends effortlessly.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mnfst/manifest/discussions/categories/feature-request)
+
 ### Email
 
 - [Dovecot](https://dovecot.org/) - IMAP and POP3 email server for Linux/UNIX-like systems<br/>
@@ -427,5 +430,3 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.torproject.org/getinvolved/volunteer.html.en) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://donate.torproject.org/)
 - [Uzbl](https://www.uzbl.org/) - a lightweight webkit browser following the UNIX philosophy<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.uzbl.org/contribute.php)
-- [CASE](https://case.app/) - Open source and frameworkless tool to build amazing CRUD applications in minutes<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/casejs/CASE)
