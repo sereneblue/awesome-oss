@@ -86,6 +86,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/gitlabhq/gitlabhq) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://about.gitlab.com/about/)
 - [Hook0](https://www.hook0.com/) - webhooks-as-a-service (WaaS) for SaaS developers<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Hook0/hook0/blob/master/contributing.md)
+- [Manifest](https://manifest.build/) - Open-source Backend-as-a-Service that enables developers to create backends effortlessly.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mnfst/manifest/discussions/categories/feature-request)
 - [Mosh](https://mosh.org/) - remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line 
 editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mosh.org/#faq)
@@ -330,8 +332,6 @@ editing of user keystrokes<br/>
 
 - [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/eldy/awstats) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.awstats.org/)
-- [CASE](https://case.app/) - Open source and frameworkless tool to build amazing CRUD applications in minutes<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/casejs/CASE)
 - [Common Voice](https://voice.mozilla.org/data) - open and publicly available dataset of voices<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.mozilla.org/en-US/foundation/)
 - [Dub](https://dub.sh/) - alternative to Bitly                    
