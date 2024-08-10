@@ -68,6 +68,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
 - [ConEmu](https://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://conemu.github.io/en/Source.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://conemu.github.io/donate.html)
+- [Daytona](https://www.daytona.io/) - The Open Source Dev Environment Manager<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/daytonaio/daytona)
 - [DEM](https://github.com/axem-solutions/dem) - Containerized Development Environment Manager for Embedded Development <br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/axem-solutions/.github/blob/main/CONTRIBUTING.md)
 - [Ddosify](https://github.com/ddosify/ddosify) - Distributed Performance Testing Platform<br/>
@@ -84,11 +86,15 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/gitlabhq/gitlabhq) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://about.gitlab.com/about/)
 - [Hook0](https://www.hook0.com/) - webhooks-as-a-service (WaaS) for SaaS developers<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Hook0/hook0/blob/master/contributing.md)
+- [Manifest](https://manifest.build/) - Open-source Backend-as-a-Service that enables developers to create backends effortlessly.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mnfst/manifest/discussions/categories/feature-request)
 - [Mosh](https://mosh.org/) - remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line 
 editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mosh.org/#faq)
 - [Node-RED](https://nodered.org/) - programming tool for wiring together hardware devices, APIs and online services in new and interesting ways<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/node-red/node-red/blob/master/CONTRIBUTING.md)
+- [Pixeleye](https://pixeleye.io/home/) - visual review & testing platform for catching UI bugs<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pixeleye-io/pixeleye) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/pixeleye-io)
 - [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - free and open-source terminal emulator<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chiark.greenend.org.uk/~sgtatham/putty/feedback.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.chiark.greenend.org.uk/%7Esgtatham/putty/faq.html)
 - [Rancher](https://rancher.com/) - a complete container management platform<br/>
@@ -107,6 +113,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/EsperoTech/yaade)
 - [Revert](https://revert.dev/) - An open source unified API to build B2B product integrations<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/revertinc/revert)
+- [Panora](https://panora.dev) - Alternative to Merge.dev - Add an integration catalog to your SaaS in minutes, not months                     
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/panoratech/Panora/blob/main/CONTRIBUTING.md) 
 
 ### Email
 
@@ -202,6 +210,8 @@ editing of user keystrokes<br/>
 
 ### Graphics
 
+- [Auto 1111 SDK](https://github.com/saketh12/Auto1111SDK) - SDK for editing and generating images<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/saketh12/Auto1111SDK?tab=readme-ov-file#contributing)
 - [Blender](https://blender.org/) - 3D Creation Software<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.blender.org/get-involved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.blender.org/foundation/donation-payment/)
 - [Caesium Image Compressor](https://saerasoft.com/caesium/) - advanced compression tool for photos and images (JPG, PNG, GIF)<br/>
@@ -238,6 +248,8 @@ editing of user keystrokes<br/>
 
 - [Apache](https://httpd.apache.org/) - cross-platform web server software<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.apache.org/httpd/Contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.apache.org/foundation/contributing.html)
+- [BunkerWeb](https://www.bunkerweb.io) - open-source and next-gen Web Application Firewall (WAF)<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/bunkerity/bunkerweb)
 - [Firezone](https://github.com/firezone/firezone) - self-hosted WireGuard® based VPN Server & Firewall<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/firezone/firezone/blob/master/CONTRIBUTING.md)
 - [FreeNAS](https://www.freenas.org/) - Network Attached Storage software<br/>
@@ -307,6 +319,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://en.opensuse.org/openSUSE:Documentation_Contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.opensuse.org/)
 - [postmarketOS](https://www.android-x86.org/) - a Linux-Based, LTS OS For Android Phones<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.postmarketos.org/wiki/Main_Page) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ollieparanoid.github.io/page/donate/)
+- [SerenityOS](https://serenityos.org/) - SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core <br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md)
 - [Slackware](http://www.slackware.com/) - The oldest maintained Linux distribution geared towards power and stability<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.slackware.com/slackware:community) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://store.slackware.com/cgi-bin/store)
 - [Ubuntu Linux](https://www.ubuntu.com/) - a Linux distribution based on the Debian architecture<br/>
@@ -318,8 +332,6 @@ editing of user keystrokes<br/>
 
 - [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/eldy/awstats) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.awstats.org/)
-- [CASE](https://case.app/) - Open source and frameworkless tool to build amazing CRUD applications in minutes<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/casejs/CASE)
 - [Common Voice](https://voice.mozilla.org/data) - open and publicly available dataset of voices<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.mozilla.org/en-US/foundation/)
 - [Dub](https://dub.sh/) - alternative to Bitly                    
@@ -328,8 +340,12 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/documenso/documenso)
 - [FreedomBox](https://freedomboxfoundation.org/) - a community project to develop, design and promote personal servers running free software for distributed social networking, email and audio/video communications<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://freedomboxfoundation.org/pitchin/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freedomboxfoundation.org/donate/)
+- [Freeter](https://freeter.io/) - an app for Windows, Mac OSX and Linux that allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/FreeterApp/Freeter) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freeter.io/sponsor/)
 - [GnuPG](https://gnupg.org/) - encrypt and sign data and communication<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://gnupg.org/documentation/bts.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://gnupg.org/donate/index.html)
+- [HortusFox](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system for your local environment<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/danielbrendel/hortusfox-web) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/danielbrendel)
 - [Huginn](https://github.com/huginn/huginn) - a system for building agents that perform automated tasks for you online<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/huginn/huginn#join-us) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.bountysource.com/teams/huginn/)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - wiki software<br/>
