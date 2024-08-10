@@ -15,6 +15,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Foundations](#foundationsorganizations)
 - [FTP Clients](#ftp-clients)
 - [Games](#games)
+- [Game Engines](#game-engines)
 - [Graphics](#graphics)
 - [Multimedia](#multimedia)
 - [Networking](#networking)
@@ -207,6 +208,10 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://book.veloren.net/contributors/index.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://opencollective.com/veloren/donate)
 - [Xonotic](https://xonotic.org/) - Xonotic is an addictive arena-style first person shooter with crisp movement and a wide array of weapons. It combines intuitive mechanics with in-your-face action to elevate your heart rate<br />
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://gitlab.com/xonotic/xonotic/blob/master/README.md#contributing)
+
+### Game Engines
+- [Godot: Game Engine](https://godotengine.org/) - Godot: Your free, open-source game engine. Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/godotengine/godot/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://godotengine.org/donate/)
 
 ### Graphics
 
