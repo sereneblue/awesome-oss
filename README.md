@@ -196,7 +196,7 @@ editing of user keystrokes<br/>
 
 ### Games
 
-- [Beyond All Reason](https://www.beyondallreason.info/) - Beyond All Reason: Real-Time Strategy Redefined. Every unit, projectile and explosion simulated in real-time.
+- [Beyond All Reason](https://www.beyondallreason.info/) - Beyond All Reason: Real-Time Strategy Redefined. Every unit, projectile and explosion simulated in real-time.<br />
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.beyondallreason.info/development/development-of-bar) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.beyondallreason.info/donate-to-bar)
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Cataclysm: DDA is a turn-based survival game set in a post-apocalyptic world. Struggle to survive in a harsh, persistent, procedurally generated world<br />
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://cataclysmdda.org/contributions/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://cataclysmdda.org/donations/)
@@ -212,7 +212,7 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://gitlab.com/xonotic/xonotic/blob/master/README.md#contributing)
 
 ### Game Engines
-- [Godot: Game Engine](https://godotengine.org/) - Godot: Your free, open-source game engine. Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
+- [Godot: Game Engine](https://godotengine.org/) - Godot: Your free, open-source game engine. Develop your 2D & 3D games, cross-platform projects, or even XR ideas!<br />
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/godotengine/godot/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://godotengine.org/donate/)
 
 ### Graphics
