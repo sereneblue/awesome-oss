@@ -196,6 +196,8 @@ editing of user keystrokes<br/>
 
 ### Games
 
+- [Beyond All Reason](https://www.beyondallreason.info/) - Beyond All Reason: Real-Time Strategy Redefined. Every unit, projectile and explosion simulated in real-time.
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.beyondallreason.info/development/development-of-bar) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.beyondallreason.info/donate-to-bar)
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Cataclysm: DDA is a turn-based survival game set in a post-apocalyptic world. Struggle to survive in a harsh, persistent, procedurally generated world<br />
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://cataclysmdda.org/contributions/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://cataclysmdda.org/donations/)
 - [OpenRA](https://www.openra.net/) - OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command & Conquer, and Dune 2000<br />
