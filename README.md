@@ -363,6 +363,7 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssl.org/community/)
 - [OpenStreetMap](https://www.openstreetmap.org) - collaborative project to create a free editable map of the world<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openstreetmap.org/help) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.osmfoundation.org/wiki/Main_Page)
+- [Quick Capture](https://github.com/minthemiddle/Quick-Capture) -  A quick capture app for adding thoughts to a daily markdown note
 - [Radicale](http://radicale.org/) - CalDAV and CardDAV Server<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://radicale.org/contribute/)
 - [Stockfish Chess](https://stockfishchess.org/) - UCI chess engine<br/>
