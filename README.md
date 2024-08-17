@@ -351,6 +351,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/FreeterApp/Freeter) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freeter.io/sponsor/)
 - [GnuPG](https://gnupg.org/) - encrypt and sign data and communication<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://gnupg.org/documentation/bts.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://gnupg.org/donate/index.html)
+- [Hi.Events](https://hi.events) - Open-source and feature-packaged event management and ticket selling platform.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/HiEventsDev/Hi.Events) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/HiEventsDev)
 - [HortusFox](https://github.com/danielbrendel/hortusfox-web) - Self-hosted collaborative plant management system for your local environment<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/danielbrendel/hortusfox-web) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/danielbrendel)
 - [Huginn](https://github.com/huginn/huginn) - a system for building agents that perform automated tasks for you online<br/>
