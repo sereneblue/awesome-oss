@@ -6,6 +6,8 @@ Open source projects with links to contribute or donate. Make sure you can acces
 
 If you are still not sure you can check the definition for open source by the [Open Source Initiative](https://opensource.org/osd).
 
+At this time, I am only open to pull requests for projects that have gained traction (at least 100 stars) and are actively being developed. 
+
 ## Template contributing to this list
 
 *View Code of this file to get the template...*
