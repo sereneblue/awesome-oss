@@ -100,6 +100,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chiark.greenend.org.uk/~sgtatham/putty/feedback.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.chiark.greenend.org.uk/%7Esgtatham/putty/faq.html)
 - [Rancher](https://rancher.com/) - a complete container management platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/rancher/rancher)
+- [React Admin](https://marmelab.com/react-admin/) - The React Framework for B2B Apps<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/marmelab/react-admin)
 - [Refine](https://refine.dev) - an open source React-based framework for building CRUD apps<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/refinedev/refine) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/refinedev)
 - [Taipy](https://www.taipy.io) - open-source Python library for building web applications’ GUI and back-end management.                   
