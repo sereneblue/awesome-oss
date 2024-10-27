@@ -118,6 +118,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/revertinc/revert)
 - [Panora](https://panora.dev) - Alternative to Merge.dev - Add an integration catalog to your SaaS in minutes, not months                     
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/panoratech/Panora/blob/main/CONTRIBUTING.md)
+- [Potpie](https://potpie.ai) - Use pre-built AI Agents for your codebase to ask questions, debug, test and system design or build your own purpose built agents.              
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/potpie-ai/potpie/blob/main/contributing.md)
 - [Solito](https://solito.dev/) - A library dedicated to unifying React Native with Next.js, primarily focused on navigation.<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/nandorojo/solito) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/nandorojo) 
 
