@@ -108,7 +108,7 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Avaiga/taipy)
 - [Tolgee](https://tolgee.io) - developer & translator friendly localization platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tolgee/tolgee-platform/blob/main/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/tolgee)
-- [Trench](https://www.trench.dev) - open-source analytics infrastructure for tracking events, page views, and more.<br/>                 
+- [Trench](https://www.trench.dev) - open-source analytics infrastructure for tracking events, page views, and more.<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.trench.dev/contributing)
 - [VirtualBox](https://www.virtualbox.org/) - free and open-source hypervisor<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.virtualbox.org/wiki/Contributor_information)
