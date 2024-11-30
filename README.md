@@ -94,6 +94,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mosh.org/#faq)
 - [Node-RED](https://nodered.org/) - programming tool for wiring together hardware devices, APIs and online services in new and interesting ways<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/node-red/node-red/blob/master/CONTRIBUTING.md)
+- [Ohmyzsh](https://ohmyz.sh/) - an open source, community-driven framework for managaing your Zsh configurations<br/>
+[![Contribute](https://github.com/ohmyzsh/ohmyzsh/blob/master/CONTRIBUTING.md)](https://github.com/sponsors/ohmyzsh)
 - [Pixeleye](https://pixeleye.io/home/) - visual review & testing platform for catching UI bugs<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pixeleye-io/pixeleye) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/pixeleye-io)
 - [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - free and open-source terminal emulator<br/>
