@@ -450,7 +450,7 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mean00/avidemux2)
 - [HandBrake](https://handbrake.fr/) - a GPL-licensed, multiplatform, multithreaded video transcoder<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/HandBrake/HandBrake)
-- [KdenLive](https://kdenlive.org/) - a video editing software based on the MLT Framework, KDE and Qt<br/>
+- [Kdenlive](https://kdenlive.org/) - a video editing software based on the MLT Framework, KDE and Qt<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://community.kde.org/Kdenlive/Development) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.kde.org/applications/multimedia/kdenlive/)
 - [Open Broadcaster Software](https://obsproject.com/) - streaming and recording program maintained by the OBS Project<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/jp9000/obs-studio) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://obsproject.com/donate)
