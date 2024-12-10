@@ -314,6 +314,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.archlinux.org/index.php/ArchWiki:Contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.archlinux.org/donate/)
 - [CentOS](https://centos.org/) - a Linux distribution that attempts to provide a free, enterprise-class, community-supported computing platform functionally compatible with its upstream source<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.centos.org/Contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.centos.org/Donate)
+[CachyOS](https://cachyos.org/) -  Blazingly Fast & Customizable Linux distribution (Arch based)<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/CachyOS/linux-cachyos/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/CachyOS/linux-cachyos?tab=readme-ov-file#donations-appreciated-for-maintaining-repositories-and-build-server-thank-you-for-your-support)
 - [Debian](https://www.debian.org/) - a Unix-like computer operating system that is composed entirely of free software<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.debian.org/devel/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.debian.org/donations)
 - [Fedora](https://fedoraproject.org/) - a Linux distriibution developed by the community-supported Fedora Project and sponsored by Red Hat<br/>
