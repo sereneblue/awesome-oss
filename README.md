@@ -486,4 +486,5 @@ editing of user keystrokes<br/>
 - [Uzbl](https://www.uzbl.org/) - a lightweight webkit browser following the UNIX philosophy<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.uzbl.org/contribute.php)
 - [Zen](zen-browser.app) - A beautifully designed, privacy-focused, web browser packed with features
+
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.zen-browser.app/contribute/CONTRIBUTING)
