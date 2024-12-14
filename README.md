@@ -314,6 +314,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.archlinux.org/index.php/ArchWiki:Contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.archlinux.org/donate/)
 - [CentOS](https://centos.org/) - a Linux distribution that attempts to provide a free, enterprise-class, community-supported computing platform functionally compatible with its upstream source<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.centos.org/Contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.centos.org/Donate)
+- [CachyOS](https://cachyos.org/) -  Blazingly Fast & Customizable Linux distribution (Arch based)<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/CachyOS/linux-cachyos/blob/master/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/CachyOS/linux-cachyos?tab=readme-ov-file#donations-appreciated-for-maintaining-repositories-and-build-server-thank-you-for-your-support)
 - [Debian](https://www.debian.org/) - a Unix-like computer operating system that is composed entirely of free software<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.debian.org/devel/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.debian.org/donations)
 - [Fedora](https://fedoraproject.org/) - a Linux distriibution developed by the community-supported Fedora Project and sponsored by Red Hat<br/>
@@ -373,6 +375,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mycroft.ai/documentation/contributing/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://mycroft.ai/product/donate-to-open-source/)
 - [OpenSSL](https://www.openssl.org/) - project that provides a robust, commercial-grade, and full-featured toolkit for TLS & SSL<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssl.org/community/)
+- [Neo-Store](https://github.com/NeoApplications/Neo-Store) - A modern feature-rich F-Droid client<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/NeoApplications/Neo-Store)
 - [OpenStreetMap](https://www.openstreetmap.org) - collaborative project to create a free editable map of the world<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openstreetmap.org/help) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.osmfoundation.org/wiki/Main_Page)
 - [Radicale](http://radicale.org/) - CalDAV and CardDAV Server<br/>
@@ -383,6 +387,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tykTechnologies/tyk)
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - disk encryption software for Windows, Mac OSX and Linux<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/veracrypt/VeraCrypt) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.veracrypt.fr/en/Donation.html)
+- [SD Maid 2/SE](https://f-droid.org/en/packages/eu.darken.sdmse/) - System Cleaner<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/d4rken-org/sdmaid-se/blob/main/CONTRIBUTING.md)
 - [Yacy](https://yacy.net/en/index.html) - P2P Search Engine<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://yacy.net/en/Join.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://yacy.net/en/index.html)
 - [ZoneMinder](https://www.zoneminder.com/) - state-of-the-art video surveillance software system<br/>
