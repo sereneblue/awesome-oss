@@ -373,22 +373,22 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wikimediafoundation.org/wiki/Ways_to_Give)
 - [MyCroft](https://mycroft.ai) - Voice Assistant<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mycroft.ai/documentation/contributing/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://mycroft.ai/product/donate-to-open-source/)
-- [OpenSSL](https://www.openssl.org/) - project that provides a robust, commercial-grade, and full-featured toolkit for TLS & SSL<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssl.org/community/)
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store) - A modern feature-rich F-Droid client<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/NeoApplications/Neo-Store)
+- [OpenSSL](https://www.openssl.org/) - project that provides a robust, commercial-grade, and full-featured toolkit for TLS & SSL<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssl.org/community/)
 - [OpenStreetMap](https://www.openstreetmap.org) - collaborative project to create a free editable map of the world<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openstreetmap.org/help) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.osmfoundation.org/wiki/Main_Page)
 - [Radicale](http://radicale.org/) - CalDAV and CardDAV Server<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://radicale.org/contribute/)
+- [SD Maid 2/SE](https://f-droid.org/en/packages/eu.darken.sdmse/) - Android's most thorough cleaning tool<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/d4rken-org/sdmaid-se/blob/main/CONTRIBUTING.md)
 - [Stockfish Chess](https://stockfishchess.org/) - UCI chess engine<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://stockfishchess.org/get-involved/)
 - [Tyk](https://tyk.io/) - open source API gateway<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tykTechnologies/tyk)
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - disk encryption software for Windows, Mac OSX and Linux<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/veracrypt/VeraCrypt) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.veracrypt.fr/en/Donation.html)
-- [SD Maid 2/SE](https://f-droid.org/en/packages/eu.darken.sdmse/) - System Cleaner<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/d4rken-org/sdmaid-se/blob/main/CONTRIBUTING.md)
 - [Yacy](https://yacy.net/en/index.html) - P2P Search Engine<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://yacy.net/en/Join.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://yacy.net/en/index.html)
 - [ZoneMinder](https://www.zoneminder.com/) - state-of-the-art video surveillance software system<br/>
