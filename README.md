@@ -9,7 +9,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Audio Editors](#audio-editors)
 - [Audio Players](#audio-players)
-- [Clipboard Managers]()
+- [Clipboard Managers](#clipboard-managers)
 - [Documents](#documents)
 - [Developer Tools](#developer-tools)
 - [Email](#email)
