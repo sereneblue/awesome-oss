@@ -9,6 +9,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Audio Editors](#audio-editors)
 - [Audio Players](#audio-players)
+- [Clipboard Managers]()
 - [Documents](#documents)
 - [Developer Tools](#developer-tools)
 - [Email](#email)
@@ -47,6 +48,11 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ozok/OooPlayer) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.ozok26.com/categories/5/oooplayer)
 - [Rhythmbox](https://projects-old.gnome.org/rhythmbox/) - integrated music management application<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/rhythmbox) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
+
+### Clipboard Managers
+
+- [Qopy](https://github.com/0pandadev/qopy) - Fast, Beautiful, Versatile clipboard manager written in Rust.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/0pandadev/qopy) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/0pandadev)
 
 ### Documents
 
