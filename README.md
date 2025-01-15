@@ -58,6 +58,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.libreoffice.org/community/get-involved/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.libreoffice.org/donate/)
 - [Okular](https://okular.kde.org/) - universal document viewer<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/KDE/okular) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://kde.org/community/donations/)
+- [Readest](https://www.readest.com) - a modern and feature-rich ebook reader<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/readest/readest)
 - [Scribus](https://www.scribus.net) - a page layout program<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.scribus.net/contribute/)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - free and open-source document viewer<br/>
