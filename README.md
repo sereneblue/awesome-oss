@@ -397,6 +397,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://yacy.net/en/Join.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://yacy.net/en/index.html)
 - [ZoneMinder](https://www.zoneminder.com/) - state-of-the-art video surveillance software system<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ZoneMinder/ZoneMinder/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.zoneminder.com/donate/)
+- [Probo](https://www.getprobo.com/) - OpenSource Compliance Platform (SOC2, ISO 27001, GDPR)</br>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.github.com/getprobo/probo) 
 
 ### Password Managers
 
