@@ -49,6 +49,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/rhythmbox) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
  - [Dopamine](https://digimezzo.github.io/site/software) - The audio player that keeps it simple<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/digimezzo/dopamine)[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/S6S11K63U)
+
 ### Documents
 
 - [Etherpad](http://etherpad.org/) - web-based collaborative real-time editor<br/>
