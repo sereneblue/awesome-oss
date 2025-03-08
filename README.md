@@ -41,14 +41,14 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Clementine](https://www.clementine-player.org/) - modern music player and library organizer<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.clementine-player.org/participate)
+- [Dopamine](https://digimezzo.github.io/site/software) - The audio player that keeps it simple<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/digimezzo/dopamine)[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/S6S11K63U)
 - [MPD](https://www.musicpd.org/) - free and open music player server<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.musicpd.org/help/)
 - [OooPlayer](https://github.com/ozok/OooPlayer) - Lightweight music player for Windows<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ozok/OooPlayer) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.ozok26.com/categories/5/oooplayer)
 - [Rhythmbox](https://projects-old.gnome.org/rhythmbox/) - integrated music management application<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/rhythmbox) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
- - [Dopamine](https://digimezzo.github.io/site/software) - The audio player that keeps it simple<br/>
-[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/digimezzo/dopamine)[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/S6S11K63U)
 
 ### Documents
 
