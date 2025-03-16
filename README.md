@@ -383,6 +383,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openssl.org/community/)
 - [OpenStreetMap](https://www.openstreetmap.org) - collaborative project to create a free editable map of the world<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.openstreetmap.org/help) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wiki.osmfoundation.org/wiki/Main_Page)
+- [Probo](https://www.getprobo.com/) - OpenSource Compliance Platform (SOC2, ISO 27001, GDPR)</br>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.github.com/getprobo/probo) 
 - [Qopy](https://github.com/0pandadev/qopy) - Fast, Beautiful, Versatile clipboard manager written in Rust.<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/0pandadev/qopy) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/0pandadev)
 - [Radicale](http://radicale.org/) - CalDAV and CardDAV Server<br/>
