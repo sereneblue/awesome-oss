@@ -112,6 +112,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/refinedev/refine) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/refinedev)
 - [Taipy](https://www.taipy.io) - open-source Python library for building web applications’ GUI and back-end management.                   
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Avaiga/taipy)
+- [Telert](https://github.com/navig-me/telert) - CLI / Python util for command completion and system event alerts.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/navig-me/telert/)[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://buymeacoffee.com/mihirk)
 - [Tolgee](https://tolgee.io) - developer & translator friendly localization platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tolgee/tolgee-platform/blob/main/CONTRIBUTING.md) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/tolgee)
 - [Trench](https://www.trench.dev) - open-source analytics infrastructure for tracking events, page views, and more.<br/>
