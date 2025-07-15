@@ -395,6 +395,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/d4rken-org/sdmaid-se/blob/main/CONTRIBUTING.md)
 - [Stockfish Chess](https://stockfishchess.org/) - UCI chess engine<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://stockfishchess.org/get-involved/)
+- [TCG Timer](https://tcgtimer.com/) - An easy to install LAN-based timer countdown app for local trading card game tournaments!<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/starg33kertcg/TCG_Timer) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://tcgtimer.com/donate)
 - [Tyk](https://tyk.io/) - open source API gateway<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tykTechnologies/tyk)
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - disk encryption software for Windows, Mac OSX and Linux<br/>
