@@ -88,6 +88,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Git](https://git-scm.com/) - distributed version control system<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://git-scm.com/community) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://git-scm.com/sfc)
 - [GitLab](https://gitlab.com) - web-based Git repository manager with wiki and issue tracking features<br/>
+- [GoCodeo](https://github.com/jatingarg619/saas-builder) - A CLI-first open-source AI tool for building full-stack apps in minutes.<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/gitlabhq/gitlabhq) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://about.gitlab.com/about/)
 - [Hook0](https://www.hook0.com/) - webhooks-as-a-service (WaaS) for SaaS developers<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Hook0/hook0/blob/master/contributing.md)
