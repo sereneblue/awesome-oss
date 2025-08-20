@@ -71,6 +71,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Ansible](https://www.ansible.com/) - radically simple IT automation platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
+- [Bifrost by Maxim AI](https://www.getmaxim.ai/bifrost/) - Bifrost is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput. 40x faster than Litellm. <br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/maximhq/bifrost)
 - [ConEmu](https://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://conemu.github.io/en/Source.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://conemu.github.io/donate.html)
 - [Daytona](https://www.daytona.io/) - The Open Source Dev Environment Manager<br/>
