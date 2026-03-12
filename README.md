@@ -79,6 +79,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/daytonaio/daytona)
 - [DEM](https://github.com/axem-solutions/dem) - Containerized Development Environment Manager for Embedded Development <br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/axem-solutions/.github/blob/main/CONTRIBUTING.md)
+- [DBX Studio](https://www.dbxstudio.com/) - AI-powered open-source database IDE — connect to PostgreSQL, MySQL, Snowflake, and more, then query and visualize your data through natural language chat<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Dbxstudio/dbx-studio)
 - [Ddosify](https://github.com/ddosify/ddosify) - Distributed Performance Testing Platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ddosify/ddosify/blob/master/CONTRIBUTING.md)
 - [Flutter](https://flutter.io/) - mobile app SDK to help developers and designers build modern mobile apps for iOS and Android<br/>
