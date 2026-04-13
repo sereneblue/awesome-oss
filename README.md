@@ -35,6 +35,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 - [Audacity](https://www.audacityteam.org/) - cross-platform audio software for multi-track recording and editing<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.audacityteam.org/community/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.audacityteam.org/)
 - [WaveShop](http://waveshop.sourceforge.net/index.html) - multi-tab audio editor with a wide range of effects/functions and several supported file formats<br/>
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://waveshop.sourceforge.net/development.html) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://sourceforge.net/p/waveshop/donate)
 
 ### Audio Players
