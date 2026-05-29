@@ -71,6 +71,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Ansible](https://www.ansible.com/) - radically simple IT automation platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
+- [AI Model Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway) - self-hosted LLM operations gateway for routing, fallback, telemetry, benchmarking, config publishing, updates, and rollback<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/SSC-STUDIO/Ai-Model-Gateway/blob/main/CONTRIBUTING.md)
 - [Bifrost by Maxim AI](https://www.getmaxim.ai/bifrost/) - Bifrost is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput. 40x faster than Litellm. <br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/maximhq/bifrost)
 - [ConEmu](https://conemu.github.io/) - free and open-source tabbed terminal emulator for Windows<br/>
