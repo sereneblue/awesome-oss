@@ -222,6 +222,7 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.beyondallreason.info/development/development-of-bar) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.beyondallreason.info/donate-to-bar)
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Cataclysm: DDA is a turn-based survival game set in a post-apocalyptic world. Struggle to survive in a harsh, persistent, procedurally generated world<br />
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://cataclysmdda.org/contributions/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://cataclysmdda.org/donations/)
+- [FriendlyBet Live](https://friendlybet.live) - Free, social prediction game and bracket builder for the FIFA World Cup 2026, built with vanilla JS and privacy by design. [Contribute](https://github.com)
 - [OpenRA](https://www.openra.net/) - OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command & Conquer, and Dune 2000<br />
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/OpenRA/OpenRA#contribute)
 - [OpenTTD](https://www.openttd.org/) - OpenTTD is an open source simulation game based upon the popular Microprose game "Transport Tycoon Deluxe", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features<br />
