@@ -66,6 +66,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.scribus.net/contribute/)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - free and open-source document viewer<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+- [Tablesmit](https://tablesmit.com) - a minimalist table builder for analytical writing with support for headers, formatting, merge cells, and export to PDF, Excel, CSV, and LaTeX<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Olayiwola72/tablesmit) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/Olayiwola72/)
 
 ### Developer Tools
 
