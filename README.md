@@ -85,6 +85,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md)
 - [Fossil](https://www.fossil-scm.org/) - simple, high-reliability, distributed software configuration management system<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.fossil-scm.org/index.html/doc/trunk/www/contribute.wiki)
+- [Fractal](https://github.com/plasma-ai/fractal) - hierarchical agent loops with recursive self-organization, bounded by caps on depth, cost, and time<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/plasma-ai/fractal/issues)
 - [Genezio CLI](https://genez.io) - cli tool that helps you deploy your JS/TS/Dart website (backend + frontend) to [genez.io](https://genez.io)'s serverless infrastructure for free.<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Genez-io/genezio/blob/master/CONTRIBUTING.md)
 - [Git](https://git-scm.com/) - distributed version control system<br/>
