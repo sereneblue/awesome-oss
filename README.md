@@ -116,7 +116,9 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/marmelab/react-admin)
 - [Refine](https://refine.dev) - an open source React-based framework for building CRUD apps<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/refinedev/refine) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/refinedev)
-- [Taipy](https://www.taipy.io) - open-source Python library for building web applications’ GUI and back-end management.                   
+- [Specmatic](https://specmatic.io) - an open source contract testing, mocking and backward compatibility testing tool for REST APIs using OpenAPI specifications.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/specmatic/specmatic/blob/main/CONTRIBUTING.md)
+- [Taipy](https://www.taipy.io) - open-source Python library for building web applications’ GUI and back-end management.
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Avaiga/taipy)
 - [Telert](https://github.com/navig-me/telert) - CLI / Python util for command completion and system event alerts.<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/navig-me/telert/)[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://buymeacoffee.com/mihirk)
