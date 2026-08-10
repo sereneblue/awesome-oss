@@ -70,6 +70,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Developer Tools
 
 - [Agent Island](https://agent-island.dev) - open-source status companion for AI coding agents; live session state and your-turn alerts for Claude Code, Codex, Antigravity, Grok and Cursor, with usage and cost computed locally<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tristan666666/agent-island/blob/main/CONTRIBUTING.md)
 - [Ansible](https://www.ansible.com/) - radically simple IT automation platform<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://docs.ansible.com/ansible/latest/community.html)
 - [Bifrost by Maxim AI](https://www.getmaxim.ai/bifrost/) - Bifrost is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput. 40x faster than Litellm. <br/>
