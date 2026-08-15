@@ -397,6 +397,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/huginn/huginn#join-us) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.bountysource.com/teams/huginn/)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - wiki software<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://wikimediafoundation.org/wiki/Ways_to_Give)
+- [MetaClean](https://github.com/Moresyl/metaclean) - cross-platform desktop app that removes metadata from images, PDFs, Office documents, and text files locally<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Moresyl/metaclean)
 - [MyCroft](https://mycroft.ai) - Voice Assistant<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://mycroft.ai/documentation/contributing/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://mycroft.ai/product/donate-to-open-source/)
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store) - A modern feature-rich F-Droid client<br/>
