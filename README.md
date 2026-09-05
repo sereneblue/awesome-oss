@@ -144,6 +144,16 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/potpie-ai/potpie/blob/main/contributing.md)
 - [Solito](https://solito.dev/) - A library dedicated to unifying React Native with Next.js, primarily focused on navigation.<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/nandorojo/solito) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/nandorojo) 
+- [Scout](https://github.com/shauryagangrade/scout-issue) - An AI coding skill that helps developers find the best GitHub issues to contribute to, triggered by the /scout command.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/shauryagangrade/scout-issue)
+- [GCode](https://github.com/shauryagangrade/GCode) - A local, AI-powered CLI that lets you chat with free LLMs (via OpenRouter) to edit files, run shell commands, and manage git—all from your terminal.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/shauryagangrade/GCode)
+- [awesome-ai-prompts](https://github.com/shauryagangrade/awesome-ai-prompts) - Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/shauryagangrade/awesome-ai-prompts)
+- [intent-drift](https://github.com/shauryagangrade/intent-drift) - Evidence-based engine for detecting intent drift in AI-assisted software development. Pluggable providers, weighted scoring, and explainable alignment reports.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/shauryagangrade/intent-drift)
+- [intent-drift-skill](https://github.com/shauryagangrade/intent-drift-skill) - Detects intent drift in AI-assisted development by comparing original goals against current execution plans using the Intent Alignment Engine.<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/shauryagangrade/intent-drift-skill)
 
 ### Email
 
